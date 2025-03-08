@@ -31,7 +31,7 @@ The **Recipe Finder App** is a Flutter-based application that allows users to se
 - **Auto-Sync from Recipes**: Add ingredients directly from a recipe.
 - **Persistent Storage**: Saves shopping lists using Hive DB.
 
-### 🌙 Dark Mode *(Coming Soon!)*
+### 🌙 Dark Mode 
 - **Theme Toggle**: Switch between light and dark themes.
 
 ---
