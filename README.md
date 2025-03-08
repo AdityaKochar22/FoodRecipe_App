@@ -47,8 +47,7 @@ The **Recipe Finder App** is a Flutter-based application that allows users to se
 ---
 
 ## 📱 Live Working of the App 
-## 🎥  Video  
-[📹 Watch](https://drive.google.com/file/d/1gtgenm2TiM5SyVPBYhZFThH5Vs4TYW-E/view?usp=sharing)
+### 🎥 [Video](https://drive.google.com/file/d/1gtgenm2TiM5SyVPBYhZFThH5Vs4TYW-E/view?usp=sharing)
 
 ---
 
