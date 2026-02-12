@@ -38,7 +38,7 @@ The **Recipe Finder App** is a Flutter-based application that allows users to se
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
-- **Backend API:** Spoonacular API
+- **Backend API:** Spoonacular API/Firebase
 - **State Management:** Provider
 - **Database:** Hive (Local Storage)
 - **Networking:** HTTP package
@@ -56,10 +56,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ---
 
-## 📝 License
-This project is licensed under the MIT License.
-
----
-
-### ✨ Made with ❤️ using Flutter 🚀
 
